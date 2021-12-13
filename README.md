@@ -1,5 +1,5 @@
 
-# *Curriculum*
+
 
 # Introduction
 
@@ -58,6 +58,15 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
 
 - ###### The couese is well crafted to meke sure you will be an assect to any company you work for. and also making sure you will be introduced to all the interview question asked in top product companies.Hence follow along the course step by step.
+
+
+# *Curriculum*
+1. HTML/CSS
+2. JS
+3. React
+4. Redux
+5. UI tech
+6 Complete Project
 
 
 

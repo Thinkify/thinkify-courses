@@ -28,3 +28,6 @@
   - [npm](https://docs.npmjs.com/getting-started/what-is-npm)(along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
 
 
+- ## Whe couese is well crafted to meke sure you will be an assect to any company you work for. and also making sure you will be introduced to all the interview question asked in top product companies.Hence follow along the course step by step.
+
+

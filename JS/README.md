@@ -1,3 +1,8 @@
+# Useful links
+https://github.com/sudheerj/reactjs-interview-questions
+https://alok722.github.io/namaste-javascript-notes/dist/lectures.html
+
+
 - # Functions in JavaScript (ES5)
 
 ### What can in-browser JavaScript do?

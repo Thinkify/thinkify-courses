@@ -248,3 +248,89 @@ React Test case
 
 We will try to answers for people who need coing skills impoved https://gist.github.com/ashwin-thinkify/77b64ed4680b38c3c795c3c81c42dffb
 
+
+## Topic for UI tech round
+
+
+css positioning 
+   sticky and fixed
+   clearfix in css
+   box model in css
+   box-sizing border box and content box 
+   center align div with respect to parent 
+   !DOCTYPE html 
+   meta tages
+   where to put the script tag 
+   async and defer
+   og: tages
+   SEO => 
+   ccs and html 
+
+
+   JS 
+   data types in JS esg es6 datatypes 
+   closure 
+   event loop
+   scope 
+   exection contex
+   JSIt inst
+   this in JS
+  prototype inheritance and chaing
+  proomise object
+  rase condition 
+  === and ==
+  testing fraome work
+  memory leak
+  cross origin
+  https and http2
+
+  react 
+  erro in react 
+  virtual dom
+  
+
+  react why we use react
+  promise => set time out 
+  retuen promise 
+  consume primise object
+  async await 
+  
+
+
+  function () {
+
+  }
+
+
+{
+
+  () => {
+      this 
+  }
+}
+  this 
+
+opti
+
+  callback
+  promise
+  new Primsoer(fuction(resol reject){})
+  async / AWAIT 
+  BOND POLLY FILL
+
+
+  3 stages
+
+   1. architecture
+       minification , gzip, code spliting 
+       coulidanry cdn ,  img -> w* h and quality  
+   2. development time
+       dynamic import , lazyloading , let cand const , api call option 
+       grapql , webp 
+   3. deployment time 
+
+
+
+
+
+
